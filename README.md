@@ -1,5 +1,8 @@
 # Flutter Deeplink without Firebase
 
+- [Flutter SDK = 3.22.3]
+- [Dart SDK = 3.4.4]
+
 ## DeepLinking For Android
 
 - Used app_links: ^6.3.0 package for deepLinking.
